@@ -20,9 +20,6 @@ Kunal Ghosh
 - Chapter 3 - Testbench and simulation (ngspice)
 - Chapter 4 - Layout (Magic)
 - Chapter 5 - Extraction and LVS (netgen)
-- Chapter 6 - Problems faced and fixes
-- Results summary
-
 ---
 
 # Chapter 0 - Getting the tools
