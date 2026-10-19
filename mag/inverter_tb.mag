@@ -1,0 +1,19 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1792347838
+<< checkpaint >>
+rect -1260 -1660 1830 955
+<< metal1 >>
+rect 0 0 200 200
+rect 0 -400 200 -200
+use inverter  x1
+timestamp 1792346154
+transform 1 0 -782 0 1 -929
+box 782 529 1352 624
+<< labels >>
+flabel metal1 0 0 200 200 0 FreeSans 1600 0 0 0 out
+port 0 nsew
+flabel metal1 0 -400 200 -200 0 FreeSans 1600 0 0 0 in
+port 1 nsew
+<< end >>
